@@ -4,6 +4,10 @@ D=M
 M=D
 (LOOP)
 
+
+
+
+
 @6
 D=M
 @END
